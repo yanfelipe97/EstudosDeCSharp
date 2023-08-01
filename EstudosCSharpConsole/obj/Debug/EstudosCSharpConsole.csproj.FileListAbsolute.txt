@@ -1,0 +1,8 @@
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\bin\Debug\EstudosCSharpConsole.exe.config
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\bin\Debug\EstudosCSharpConsole.exe
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\bin\Debug\EstudosCSharpConsole.pdb
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\obj\Debug\EstudosCSharpConsole.csproj.AssemblyReference.cache
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\obj\Debug\EstudosCSharpConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\obj\Debug\EstudosCSharpConsole.csproj.CoreCompileInputs.cache
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\obj\Debug\EstudosCSharpConsole.exe
+C:\Users\yanfe\Projetos\EstudosCSharpConsole\EstudosCSharpConsole\obj\Debug\EstudosCSharpConsole.pdb

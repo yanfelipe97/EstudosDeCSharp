@@ -32,7 +32,7 @@ namespace HelloWorld1
             Console.ReadLine();
             Console.WriteLine("Sua idade é " + minhaIdade);
             Console.ReadLine();
-            Console.Write("Meu carro faz uma média de " + mediaCarro + "Km/L.");
+            Console.WriteLine("Meu carro faz uma média de " + mediaCarro + "Km/L.");
             Console.ReadLine();
             Console.WriteLine("Na escola minhas notas eram todas " + notaEscola + "+");
             Console.ReadLine();
